@@ -1,3 +1,3 @@
-# Esse e o README do meu projeto.
+# Esse é o README do meu projeto.
 
-###### Aqui ficara todo o conteudo do projeto sobre estudo git no modulo git essentials 
+###### Aqui ficará todo o conteúdo do projeto sobre estudo git no módulo git essentials.
